@@ -1,2 +1,2 @@
 # Automated-Parameters-Tuning
-This is source code for the paper "Towards the optimisation of Renault’s product configuration system"
+This is source code for the paper "Automated Parameters Tunning and Predicting for Renault’s product configuration system"
